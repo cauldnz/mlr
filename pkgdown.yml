@@ -1,0 +1,48 @@
+pandoc: 2.1.3
+pkgdown: 1.0.0.9000
+pkgdown_sha: 5eeb2aab0b68924bcde72ded0f7326070eaa0fa0
+articles:
+  mlr: mlr.html
+  _mlr-tutorial_intro: tutorial/devel/_mlr-tutorial_intro.html
+  advanced_tune: tutorial/devel/advanced_tune.html
+  bagging: tutorial/devel/bagging.html
+  benchmark_experiments: tutorial/devel/benchmark_experiments.html
+  classifier_calibration: tutorial/devel/classifier_calibration.html
+  configureMlr: tutorial/devel/configureMlr.html
+  cost_sensitive_classif: tutorial/devel/cost_sensitive_classif.html
+  create_filter: tutorial/devel/create_filter.html
+  create_imputation: tutorial/devel/create_imputation.html
+  create_learner: tutorial/devel/create_learner.html
+  create_measure: tutorial/devel/create_measure.html
+  example_tasks: tutorial/devel/example_tasks.html
+  feature_selection: tutorial/devel/feature_selection.html
+  filter_methods: tutorial/devel/filter_methods.html
+  functional_data: tutorial/devel/functional_data.html
+  handling_of_spatial_data: tutorial/devel/handling_of_spatial_data.html
+  hyperpar_tuning_effects: tutorial/devel/hyperpar_tuning_effects.html
+  impute: tutorial/devel/impute.html
+  integrated_learners: tutorial/devel/integrated_learners.html
+  learner: tutorial/devel/learner.html
+  learning_curve: tutorial/devel/learning_curve.html
+  measures: tutorial/devel/measures.html
+  multilabel: tutorial/devel/multilabel.html
+  nested_resampling: tutorial/devel/nested_resampling.html
+  out_of_bag_predictions: tutorial/devel/out_of_bag_predictions.html
+  over_and_undersampling: tutorial/devel/over_and_undersampling.html
+  parallelization: tutorial/devel/parallelization.html
+  partial_dependence: tutorial/devel/partial_dependence.html
+  _pdf_wrapper: tutorial/devel/pdf/_pdf_wrapper.html
+  performance: tutorial/devel/performance.html
+  predict: tutorial/devel/predict.html
+  preproc: tutorial/devel/preproc.html
+  resample: tutorial/devel/resample.html
+  roc_analysis: tutorial/devel/roc_analysis.html
+  task: tutorial/devel/task.html
+  train: tutorial/devel/train.html
+  tune: tutorial/devel/tune.html
+  visualization: tutorial/devel/visualization.html
+  wrapper: tutorial/devel/wrapper.html
+urls:
+  reference: https://mlr-org.github.io/mlr/reference
+  article: https://mlr-org.github.io/mlr/articles
+
